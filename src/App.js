@@ -1,11 +1,11 @@
+import "./App.css";
+import Search from "./Compenent/Search";
 
-import './App.css';
-import Search from './Search';
 function App() {
   return (
-   <>
-         <Search />
-   </>
+    <>
+      <Search />
+    </>
   );
 }
 
